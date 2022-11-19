@@ -2,6 +2,8 @@
 
 Ein Märchen, nacherzählt von Nathan Hüsken.
 
+== Protagonisten
+
 include::characters/little_red_riding_hood.adoc[leveloffset=2]
 
 == Lizenzen
