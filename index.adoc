@@ -1,2 +1,3 @@
 = Wie der böse Wolf beinahe Rotkäppchen überlistete
 
+include::characters/little_red_riding_hood.adoc[leveloffset=2]
