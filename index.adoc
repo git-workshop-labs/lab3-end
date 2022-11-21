@@ -6,11 +6,13 @@ Ein Märchen, nacherzählt von Nathan Hüsken.
 
 include::characters/little_red_riding_hood.adoc[leveloffset=2]
 
+include::characters/wolf.adoc[leveloffset=2]
+
 == Kapitel
 
 include::chapters/chapter1.adoc[leveloffset=2]
 
-include::characters/wolf.adoc[leveloffset=2]
+include::chapters/chapter2.adoc[leveloffset=2]
 
 == Lizenzen
 
