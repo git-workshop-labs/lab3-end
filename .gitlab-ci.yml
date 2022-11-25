@@ -4,7 +4,7 @@ pages:
     only:
       - main
     script:
-      - ./build.sh
+      - asciidoctor index.adoc --out-file public/index.html
     artifacts:
       paths:
         - public
